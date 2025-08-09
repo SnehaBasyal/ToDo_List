@@ -75,6 +75,9 @@ while True:
         print("Invalid choice.")
 ```
 ## Output Screenshots
+![image](todo1.png)
+
+![image](todo2.png)
 
 ## Gained Insights
 - Practiced list operations such as append() and pop() in Python.
